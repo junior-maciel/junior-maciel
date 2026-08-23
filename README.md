@@ -1,4 +1,6 @@
-# João Batista Maciel Junior
+<p align="center">
+  <img src="./assets/header.svg" alt="Junior Maciel — Senior Design Technologist, UX Designer & AI Systems Builder" width="100%" />
+</p>
 
 Senior Design Technologist, UX Designer, and AI Systems Builder based in João Pessoa, Brazil (Remote).
 

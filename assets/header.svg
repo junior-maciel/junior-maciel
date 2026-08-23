@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" height="200" fill="none">
+  <style>
+    .title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; font-weight: 800; font-size: 32px; fill: #FFFFFF; letter-spacing: 3px; }
+    .subtitle { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; font-weight: 600; font-size: 12px; fill: #A1A1AA; letter-spacing: 2.5px; }
+    .tag { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; font-size: 11px; fill: #71717A; letter-spacing: 1.5px; }
+    .accent-red { fill: #EF4444; }
+    .accent-yellow { fill: #F59E0B; }
+    .accent-cyan { fill: #06B6D4; }
+  </style>
+
+  <!-- Container Box com Borda Técnica -->
+  <rect x="1" y="1" width="798" height="198" rx="12" fill="#09090B" stroke="#27272A" stroke-width="1.5"/>
+
+  <!-- Pattern de Grid / Dot Matrix de Fundo -->
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#FFFFFF" fill-opacity="0.06"/>
+    </pattern>
+  </defs>
+  <rect x="2" y="2" width="796" height="196" rx="11" fill="url(#grid)"/>
+
+  <!-- Indicadores Técnicos de Topo -->
+  <circle cx="44" cy="42" r="4.5" class="accent-red"/>
+  <circle cx="60" cy="42" r="4.5" class="accent-yellow"/>
+  <circle cx="76" cy="42" r="4.5" class="accent-cyan"/>
+  <text x="756" y="46" text-anchor="end" class="tag">07°07&#39;S 34°53&#39;W // DESIGN ↔ CODE INFRASTRUCTURE</text>
+
+  <!-- Divisor Técnico Sutil -->
+  <line x1="44" y1="62" x2="756" y2="62" stroke="#27272A" stroke-width="1" stroke-dasharray="4 4"/>
+
+  <!-- Tipografia Principal -->
+  <text x="44" y="118" class="title">JUNIOR MACIEL</text>
+  <text x="44" y="148" class="subtitle">SENIOR DESIGN TECHNOLOGIST <tspan class="accent-red">·</tspan> SENIOR UX DESIGNER <tspan class="accent-yellow">·</tspan> AI SYSTEMS BUILDER</text>
+
+  <!-- Acentos Geométricos no canto inferior -->
+  <rect x="716" y="142" width="40" height="2" fill="#EF4444"/>
+  <rect x="736" y="148" width="20" height="2" fill="#F59E0B"/>
+</svg>
