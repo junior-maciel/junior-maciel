@@ -1,19 +1,50 @@
-# Hello guys 👋 I'm Junior Maciel. [![](https://visitcount.itsvg.in/api?id=junior-maciel&icon=0&color=4)](https://visitcount.itsvg.in)
+# João Batista Maciel Junior
 
-<!--
-**junior-maciel/junior-maciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+> **Senior Design Technologist · Senior UX Designer · AI Systems Builder**  
+> João Pessoa - PB, Brazil · Remote
 
-I'm a Designer (+10 years) and I live in [João Pessoa](https://pt.wikipedia.org/wiki/Jo%C3%A3o_Pessoa), in the northeast of Brazil. Currently I'm a Design Technologist at [Philips](https://www.philips.com/global), working remotely with the Blumenau team on innovation projects for the health area. I have worked on digital projects for Cidade Viva, Davus Engenharia, TocaLivros, Global Commons Review, SOGO - Government Solutions, Hofmann Station, ClubKids Aluguel de Brinquedos, Adoleta Brinquedos, designing digital experiences to improve communication between users and their businesses.
+---
 
-Today I work on the definition and management of some design processes within the design team at Philips Blumenau, connecting developers and designers for the sake of productive efficiency, ensuring that all those responsible for a project are aware of their deliverables and results for the creation of digital products.
+### 👨🏻‍💻 About Me
 
-- 👨🏻‍💻 Currently working as Design Technologist at [Philips](https://www.philips.com/global)
-- 📚 Studying about design systems, design operations and new technologies
-- 📬 Contact me by email: [juniormacieldg@gmail.com](mailto:juniormacieldg@gmail.com) or [Linkedin](https://www.linkedin.com/in/juniordesigner/)
-- 🙋🏻‍♂️ Pronouns: He / His
+Senior Design Technologist and Systems Builder with over 10 years of experience shaping scalable design architectures and digital products.
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/juniormaciel) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juniormaciel.dsgn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juniordesigner) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@juniordesigner) 
+- 🏥 **Enterprise Systems & Governance:** Currently a Senior Design Technologist at **Philips**, bridging the gap between product design and frontend engineering, driving Design Systems governance, and optimizing design-to-code pipelines for complex healthcare platforms.
+- 🚀 **Venture & Infrastructure:** Founder at **JayMac & Co.**, an independent studio engineering autonomous design-to-code operating systems, agnostic token pipelines, and AI-augmented tooling for high-velocity teams.
 
-# 💻 Tech Stack:
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
+---
+
+### ⚡ Core Capabilities
+
+- **Design Systems & Tokens:** W3C DTCG Specification, 3-Tier Token Architecture, Multi-Theme / Dark Mode, Tokens Studio, Storybook, Figma APIs & Plugin Architecture.
+- **Frontend Engineering:** TypeScript, React, Next.js, Tailwind CSS, Radix UI / Headless components, Web Standards & Accessibility (WCAG 2.2).
+- **Tooling & AI Automation:** Node.js/TS CLI Engineering, Google Gemini Multimodal APIs, MCP (Model Context Protocol), Automated Design QA & FFmpeg media pipelines.
+
+---
+
+### 🏛️ JayMac & Co. — Ecosystem & Tooling
+
+Architecture of an autonomous, AI-assisted design-to-code infrastructure:
+
+* **`@jaymac/tools`** `[CLI Suite · Coming Soon to NPM]`  
+  Global CLI for Design Ops: agnostic design token compilation (W3C DTCG → CSS/Tailwind/TS), live multimodal meeting transcription via Google Gemini, and media automation.
+* **`JayMac BrandSystem`** `[Design System & Next.js · In Active Development]`  
+  High-contrast visual language, token architecture, and production frontend implementation.
+* **`JayMac Documentation`** `[Docs Portal · Coming Soon]`  
+  Technical documentation, component specifications, and design system governance guides.
+* **`JayMac Playbook & Skills`** `[AI-Assisted Engine · Internal Core]`  
+  8-phase design-to-code methodology powered by portable multi-agent skill packs.
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
+`TypeScript` · `React` · `Next.js` · `Tailwind CSS` · `Node.js` · `Storybook` · `Figma` · `Tokens Studio` · `Google Gemini API` · `Git`
+
+---
+
+### 🌐 Connect
+
+- **LinkedIn:** [linkedin.com/in/juniordesigner](https://www.linkedin.com/in/juniordesigner/)
+- **Email:** [juniormacieldg@gmail.com](mailto:juniormacieldg@gmail.com)
+
