@@ -11,7 +11,7 @@ Bridging the gap between design systems architecture, frontend engineering, and 
 Over the past decade, I have focused on designing and engineering scalable digital products, building robust design-to-code pipelines, and establishing productive alignment between designers and engineers.
 
 - **Enterprise & Governance:** Senior Design Technologist at **Philips**, driving Design Systems governance, design-to-code integration, and frontend architecture across complex healthcare platforms.
-- **Venture & Tooling:** Founder at **JayMac & Co.**, an independent studio engineering autonomous design-to-code operating systems, token compilers, and AI-augmented tooling for high-velocity teams.
+- **Venture & Tooling:** Founder at **LENX & Co.**, an independent studio engineering autonomous design-to-code operating systems, token compilers, and AI-augmented tooling for high-velocity teams.
 
 ## Focus Areas
 
@@ -19,14 +19,13 @@ Over the past decade, I have focused on designing and engineering scalable digit
 - **Frontend Architecture** — TypeScript, React, Next.js, Tailwind CSS, headless UI patterns, and accessibility standards (WCAG 2.2).
 - **Tooling & AI Automation** — Node/TypeScript CLIs, Google Gemini multimodal integrations, Model Context Protocol (MCP), and automated design QA.
 
-## JayMac & Co.
+## LENX & Co.
 
 Infrastructure and tooling currently in development:
 
-- `@jaymac/tools` *(CLI Suite · Coming Soon to NPM)* — Global Design Ops CLI for agnostic token compilation (W3C DTCG → CSS/Tailwind/TS), live multimodal meeting transcription via Google Gemini, and media pipelines.
-- `jaymac-brand` *(Design System & Next.js · In Active Development)* — High-contrast visual language, multi-tier token architecture, and production web application.
-- `jaymac-docs` *(Docs Portal · Coming Soon)* — Public technical documentation, component specifications, and governance playbooks.
-- `jaymac-skills` *(AI Engine · Internal Core)* — 8-phase design-to-code methodology powered by portable multi-agent skill packs.
+- `@lenx/tools` *(CLI Suite · In Active Development)* — Global Design Ops CLI for agnostic token compilation (W3C DTCG → CSS/Tailwind/TS), live multimodal meeting transcription via Google Gemini, and media pipelines.
+- `lenx-brand` *(Design System & Next.js · In Active Development)* — High-contrast visual language, multi-tier token architecture, and canonical brand system (lenxco.com).
+- `lenx-skills` *(AI Engine & Playbook · Internal Core)* — Guided step-by-step methodology powered by portable multi-agent skill packs.
 
 ## Stack & Tooling
 
